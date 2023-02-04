@@ -1,0 +1,2 @@
+# weld
+abaqus weld python
